@@ -4,7 +4,7 @@ A PWA app as parking assistant to manage parking place in hotels, restaurants et
 
 ## Screenshots
 
-![App Screenshot](screenshots/Slide3.png)
+![App Screenshot](screenshots/Slide1.png)
 ### [Checkout All Screenshots](screenshots)
 #
-`#Reactjs` `#Redux` `#Material UI` `#iMap` `#Full-calendar` `#Suneditor` `#Apexcharts` `#Microsoft and google SSO` `#Recaptcha` `#ChartJS` `#Admin Panels` `#Task Management with follow-up and follow-in` `#File Management` `#Contact Management`
+`#Reactjs` `#Redux` `#MUI` `#AdminPanel` `#fringerprintjs` `#QR code generator` `#QR scanner` `#Timeline View` `#Vehicle Check-in and Checkout` `#PDF export` `#Role base dynamic dashboard` `#Receipt Generation` `#Reports`
